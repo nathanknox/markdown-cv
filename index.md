@@ -40,10 +40,10 @@ __PNC Bank__ - _Big Data Developer_
 
 `2015-2017`
 __DataBabble, Inc.__ - _Founder_
-- Leveraged tailored approach to data and business strategy to develop custom solutions for clients across various industries.
+- Consulting data scientist and analyst to a range of industries and clients.
 - Educated and led clients in developing the right questions needed to gather information to create valid and reliable solutions.
 - Utilized SQL, Python, R, Tableau, and UML to map, explore, and translate data into an understandable and useful format for the client’s needs.
-- Partnered with clients to embrace data and drive processes and products to be more efficient and profitable.
+- Partnered with clients to embrace digital transformation in a data-first mindset, driving processes and products to be more efficient and profitable.
 
 ## Teaching
 __Accenture Internal__
