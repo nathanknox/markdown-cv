@@ -33,10 +33,10 @@ __Accenture__ - _Manager_
 
 `2016-2017`
 __PNC Bank__ - _Big Data Developer_
-- Developed, tested, and supported new applications for the bank’s Big Data Hub.
-- Collaborated in the fast-paced environment of the financial and banking sector to ensure upkeep of data warehouse for downstream business users.
-- Advised teams/utilized knowledge of Hadoop (Impala, Hive, Sqoop, etc.), Python, SQL, Teradata, Tableau, and others to maintain and grow bank’s data and data infrastructure.
-- Automated reporting processes for internal metrics and system monitoring.
+- Developer and leader implementing the organizations’ first big data implementation.
+- Utilized Cloudera distribution of Hadoop ecosystem to develop, support, and monitor data ingestion and transformation pipelines.
+- Coded custom reporting solutions for Hadoop data metrics to provide leadership with insight into the performance of the platform and applications.
+- Focused on evangelizing big data mindset and encouraging adoption across the enterprise.
 
 `2015-2017`
 __DataBabble, Inc.__ - _Founder_
