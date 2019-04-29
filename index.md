@@ -10,19 +10,18 @@ Technical Architect and Software Engineer
 | 847.769.7269
 | <a href="https://nathanknox.dev">nathanknox.dev</a>
 </div>
------
+
 ## Currently
 
 Consulting across industries on big data engineering and software architecture.
 
-### Specialized in
+## Selected Experience
 
-Big data archictecture and software engineering delivery.
 
 ## Education
 
 `2008-2013`
-__Case Western Reserve University - Cleveland, OH.__
+__Case Western Reserve University__ - Cleveland, OH
 - Bachelor of Arts in Cognitive Science and Music Performance
 
 <!-- ### Footer
