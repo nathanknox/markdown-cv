@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: Nathan Knox's CV
 ---
 # Nathan Knox
