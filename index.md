@@ -9,6 +9,7 @@ Technical Architect and Software Engineer
 <a href="nathan.knox@gmail.com">nathan.knox@gmail.com</a>
 | 847.769.7269
 </div>
+
 ## Skills and Interests
 - Hadoop, Apache Spark, Python, Scala, cloud-based architectures, functional programming
 
