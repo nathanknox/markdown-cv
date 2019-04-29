@@ -19,11 +19,21 @@ Consulting across industries in software engineering and big data architecture.
 `2017-Present`
 __Accenture__ - _Manager_
 - Major US Airline - _Technical Architect_
-  - Did some stuff yadda yadda
-  - Some more stuff
-- Major US Pharmacy/Retailer - _Data Engineer_
-- Major US Healthcare Payor - _Technical Architect_
-- Major US Healthcare Payor - _Tech Lead_
+  - Solutioned and implemented enterprise shift to Palantir Foundry to bring analytics in-house and drive savings.
+  - Engineered and tested ELT pipelines to ensure parity with previous systems and solutions.
+- Top 5 US Pharmacy/Retailer - _Data Engineer_
+  - Designed and built pipelines for consumer-facing personalization engine to drive sales and increase margin.
+  - Gathered and translated business requirements to facilitate technical runway.
+  - Interfaced with on-and-offshore data science teams to translate R models into Scala/Spark workflows.
+- Top 5 US Healthcare Payor - _Technical Architect_
+  - Guided technical and organizational change across the enterprise, focused on application architecture and big data implementation/migration strategy.
+  - Instrumental in the success of the organization’s first successful pivot to Hadoop - in addition to strategy/planning, he also specialized in coding reusable modules for use by development teams to ingest and transform data.
+  - Collaboratively staffed ten development teams to deliver data lake implementation.
+- Top 5 US Healthcare Payor - _Tech Lead_
+  - Wrote code and solutioned as the team's primary developer, responsible for hands-on problem solving to meet product owner and business requirements.
+  - Collaboratively staffed ten development teams for data lake delivery, balancing cost and skillsets.
+  - Supplied technical leadersuip for two development teams, one onshore and one offshore.
+  - Served as interim scrum master responsible for Agile ceremonies and leadership.
 
 `2016-2017`
 __PNC Bank__ - _Big Data Developer_
@@ -40,8 +50,9 @@ __DataBabble, Inc.__ - _Founder_
 - Partnered with clients to embrace data and drive processes and products to be more efficient and profitable.
 
 ## Teaching
-__Accenture Internal Spark/Scala Course__
-- 200-level co-faculty and mentor
+__Accenture Internal__
+- Big Data Developer Co-op founder and mentor
+- 200-level Spark/Scala course co-faculty member
 
 ## Education
 
