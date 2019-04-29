@@ -11,20 +11,6 @@ Technical Architect and Software Engineer
 
 ------
 
-### Technical
-
-1. Python
-1. Hadoop
-1. AWS Cloud
-1. Scala
-1. Git / SVN
-1. Google Cloud
-1. Haskell
-1. DataBricks
-1. Microsoft Azure
-
-------
-
 ### Experience
 
 **NTTData** *Senior Consultant* __2012 to present__
