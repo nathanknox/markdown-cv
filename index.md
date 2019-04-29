@@ -7,7 +7,8 @@ Technical Architect and Software Engineer
 
 <div id="webaddress">
 <a href="nathan.knox@gmail.com">nathan.knox@gmail.com</a>
-| <a href="https://nathanknox.dev">My bloge</a>
+| 847.769.7269
+| <a href="https://nathanknox.dev">Blog</a>
 </div>
 
 
