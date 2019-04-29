@@ -10,8 +10,7 @@ Technical Architect and Software Engineer
 | 847.769.7269
 | <a href="https://nathanknox.dev">nathanknox.dev</a>
 </div>
-
-
+-----
 ## Currently
 
 Consulting across industries on big data engineering and software architecture.
