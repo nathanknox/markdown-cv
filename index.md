@@ -1,24 +1,23 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Nathan Knox's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Nathan Knox
+Technical Architect and Software Engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="nathan.knox@gmail.com">nathan.knox@gmail.com</a>
+| <a href="https://nathanknox.dev">My bloge</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Consulting across industries on big data engineering and software architecture.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Big data archictecture and software engineering delivery.
 
 ### Research interests
 
