@@ -29,10 +29,9 @@ __Accenture__ - _Manager_
 - Top 5 US Healthcare Payor - _Technical Architect_
   - Guided technical and organizational change across the enterprise, focused on application architecture and big data implementation/migration strategy.
   - Instrumental in the success of the organization’s first successful pivot to Hadoop - in addition to strategy/planning, he also specialized in coding reusable modules for use by development teams to ingest and transform data.
-  - Collaboratively staffed ten development teams to deliver data lake implementation.
+  - Collaboratively staffed ten development teams, balancing cost and skillsets to deliver data lake implementation.
 - Top 5 US Healthcare Payor - _Tech Lead_
   - Wrote code and solutioned as the team's primary developer to meet product owner and business requirements.
-  - Collaboratively staffed ten development teams for data lake delivery, balancing cost and skillsets.
   - Supplied technical leadersuip for two development teams, one onshore and one offshore.
   - Served as interim scrum master responsible for Agile ceremonies and leadership.
 
