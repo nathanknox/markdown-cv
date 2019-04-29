@@ -5,9 +5,9 @@ title: Nathan's CV
 # Nathan Knox
 Technical Architect and Software Engineer
 
-> [nathanknox.dev](https://nathanknox.dev)
-> [nathan.knox@gmail.com](mailto:nathan.knox@gmail.com)
-> (847) 769-7269
+[nathanknox.dev](https://nathanknox.dev)
+[nathan.knox@gmail.com](mailto:nathan.knox@gmail.com)
+(847) 769-7269
 
 ------
 
