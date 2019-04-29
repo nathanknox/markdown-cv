@@ -11,7 +11,7 @@ Technical Architect and Software Engineer
 </div>
 
 ## Skills and Interests
-- Hadoop, Apache Spark, Python, Scala, cloud-based architectures, functional programming
+- Hadoop, Apache Spark, Python, Scala, technical architecture, organizational change management, functional programming
 
 ## Selected Experience
 
