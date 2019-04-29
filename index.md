@@ -18,8 +18,8 @@ Consulting across industries on big data engineering and software architecture.
 
 `2017-Present`
 __Accenture__
-- __Technical Architect__ - _Major US Airline_
-- Did some stuff yadda yadda
+- _Technical Architect_ - Major US Airline
+  - Did some stuff yadda yadda
 - Some more stuff
 
 ## Education
