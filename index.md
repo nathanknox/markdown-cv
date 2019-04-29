@@ -8,7 +8,7 @@ Technical Architect and Software Engineer
 <div id="webaddress">
 <a href="nathan.knox@gmail.com">nathan.knox@gmail.com</a>
 | 847.769.7269
-| <a href="https://nathanknox.dev">Blog</a>
+| <a href="https://nathanknox.dev">nathanknox.dev</a>
 </div>
 
 
@@ -20,15 +20,11 @@ Consulting across industries on big data engineering and software architecture.
 
 Big data archictecture and software engineering delivery.
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2008-2013`
+__Case Western Reserve University, Cleveland, OH.__
+- Bachelor of Arts in Cognitive Science and Music Performance
 
 `June 1661 - now`
 __Trinity College, Cambridge__
