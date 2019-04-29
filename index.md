@@ -39,6 +39,10 @@ __DataBabble, Inc.__ - _Founder_
 - Utilized SQL, Python, R, Tableau, and UML to map, explore, and translate data into an understandable and useful format for the client’s needs.
 - Partnered with clients to embrace data and drive processes and products to be more efficient and profitable.
 
+## Teaching
+__Accenture Internal Spark/Scala Course__
+- 200-level co-faculty and mentor
+
 ## Education
 
 `2008-2013`
