@@ -14,10 +14,13 @@ Technical Architect and Software Engineer
 ### Experience
 
 **NTTData** *Senior Consultant* __2012 to present__
+
 	Designed Backbone.js based application to replace and improve upon
-existing legacy system.
+	existing legacy system.
+
 	Introduced BDD style testing using Jasmine/Karma into existing application code.
 	Developed modern solutions and features for large Enterprise Java systems.
+	
 	Collaborated with and guided global team members transitioning to client side architecture.
 	**Technical Environment** Backbone.js, Jasmine.js, Coffeescript, SpringSource, Tomcat.
 
