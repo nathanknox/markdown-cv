@@ -26,7 +26,7 @@ __Accenture__ - _Manager_
   - Elictied business requirements to facilitate technical runway.
   - Interfaced with on-and-offshore data science teams to translate R models into Scala/Spark workflows.
 - Top 5 US Healthcare Payor - _Technical Architect_
-  - Guided technical and organizational change across the enterprise, focused on application architecture and big data implementation/migration strategy.
+  - Guided technical and organizational change for $45M engagement across the enterprise, focused on application architecture and big data implementation/migration strategy.
   - Instrumental in the success of the organization’s first successful pivot to Hadoop - in addition to strategy/planning, also specialized in coding reusable modules for use by development teams to ingest and transform data.
   - Collaboratively staffed ten development teams, balancing cost and skillsets to deliver data lake implementation.
 - Top 5 US Healthcare Payor - _Tech Lead_
