@@ -17,7 +17,6 @@ Technical Architect and Software Engineer
 `2019-Present`
 __Databricks__ - _Senior Specialist Solutions Architect_
 
-
 `2017-2019`
 __Accenture__ - _Manager_
 - Major US Airline - _Technical Architect_
@@ -53,6 +52,9 @@ __DataBabble, Inc.__ - _Founder_
 - Partnered with clients to embrace digital transformation in a data-first mindset, driving processes and products to be more efficient and profitable.
 
 ## Teaching
+__Databricks Internal__
+- Train new Bricksters on Spark tuning and optimization techniques
+- Multiple engagements as a Data + AI Summit Teaching Assistant
 __Accenture Internal__
 - Big Data Developer Co-op founder and mentor
 - 200-level Spark/Scala course co-faculty member
@@ -65,6 +67,4 @@ __Case Western Reserve University__ - _Cleveland, OH_
 
 <!-- ### Footer
 
-Last updated: April 2019 -->
-
-
+Last updated: July 2022 -->
