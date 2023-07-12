@@ -15,7 +15,11 @@ Technical Architect and Software Engineer
 
 ## Selected Experience
 `2019-Present`
-__Databricks__ - _Senior Specialist Solutions Architect_
+__Databricks__ - _Lead Specialist Solutions Architect_
+  - Design, build, and optimize enterprise-scale data applications for organizations on all 3 public hyperscalers (AWS, Azure, GCP)
+  - Technical authority on the breadth of the Databricks product, with deep specialization in cloud architecture, data engineering, platform security, and DS/ML/AI
+  - Force multiplier through mentorship, OSS contribution, Databricks solution accelerators, and reference architectures
+  - Co-author of the Databricks HLS Lakehouse Blueprints and Security Reference Architecture projects, leveraging Terraform to help customers scale from zero to production in days instead of months
 
 `2017-2019`
 __Accenture__ - _Manager_
