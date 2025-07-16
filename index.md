@@ -11,7 +11,7 @@ Technical Architect and Software Engineer
 </div>
 
 ## Skills and Interests
-- Apache Spark, Scala, Python, technical architecture, functional programming, organizational change management
+- Apache Spark, Scala, Python, technical architecture, functional programming, IAC including Terraform, organizational change management
 
 ## Selected Experience
 `2019-Present`
@@ -20,7 +20,7 @@ __Databricks__ - _Lead Specialist Solutions Architect_
   - Technical authority on the breadth of the Databricks product, with deep specialization in cloud architecture, data engineering, platform, security, cyber, and DS/ML/AI.
   - Strategic advisor, architect, and builder driving successful technology transformations at scale.
   - Force multiplier through mentorship, OSS contribution, Databricks solution accelerators, and reference architectures.
-  - Founder and co-author of the Databricks Security Reference Architecture project, leveraging Terraform to help customers securely scale from zero to production in days instead of months.
+  - Founder and co-author of the Databricks Security Reference Architecture project, leveraging Terraform to help customers securely scale deployments from zero to production in days instead of months.
 
 `2017-2019`
 __Accenture__ - _Manager_
