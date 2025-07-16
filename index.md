@@ -63,8 +63,7 @@ __Databricks Internal__
 
 __Accenture Internal__
 - Big Data Developer Co-op founder and mentor
-- 200-level Spark/Scala course co-faculty member
-
+- 200-level Spark/Scala course faculty
 ## Education
 
 `2008-2013`
