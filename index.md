@@ -60,6 +60,7 @@ __DataBabble, Inc.__ - _Founder_
 __Databricks Internal__
 - Train new Bricksters on Spark tuning and optimization techniques
 - Multiple engagements as a Data + AI Summit Teaching Assistant
+
 __Accenture Internal__
 - Big Data Developer Co-op founder and mentor
 - 200-level Spark/Scala course co-faculty member
