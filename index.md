@@ -64,7 +64,6 @@ __Databricks Internal__
 __Accenture Internal__
 - Big Data Developer Co-op founder and mentor
 - 200-level Spark/Scala course faculty
-  
 ## Education
 `2008-2013`
 __Case Western Reserve University__ - _Cleveland, OH_
