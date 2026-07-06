@@ -15,7 +15,7 @@ Technical Architect and Software Engineer
 
 1. Python
 1. Hadoop
-1. AWS Cloud
+1. AWS
 1. Scala
 1. Git / SVN
 1. Google Cloud
